@@ -1,4 +1,4 @@
-from evenorodd evenandodd
+from evenorodd import evenandodd
 
 
 def test_even():
